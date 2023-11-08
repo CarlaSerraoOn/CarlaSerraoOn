@@ -1,7 +1,7 @@
 ## Olá! Eu sou Carla Serrão
 
-- 🔭 Hoje sou universitária em busca de conhecimenntos em tecnologia
-- 🌱 Estudando Typescript & Angular
+- 🔭 Faço faculdade de Análise e desenvolvimento de Sistemas 
+- 🌱 Estudando NodeJs e Teste de Software
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
