@@ -1,6 +1,6 @@
 ## Olá! Eu sou Carla Serrão
 
-- 🔭 Faço faculdade de Análise e desenvolvimento de Sistemas 
+- 🔭 Formada em ADS e Pós em Engenharia de Software
 - 🌱 Estudando NodeJs e Teste de Software
 - 😄 Pronouns: Ela/Dela
 
