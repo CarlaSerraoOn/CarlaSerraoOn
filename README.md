@@ -1,6 +1,6 @@
 # 🚀 Fala aí! Eu sou a Carla Serrão 👩‍💻  
 
-🎯 **Analista de Qualidade de Software (QA) **  
+🎯 **Analista de Qualidade de Software (QA)**  
 🔍 Explorando o universo dos **testes automatizados**, garantindo que bugs tenham pesadelos comigo!  
 🌱 Atualmente estudando **Node.js e Teste de Software**  
 🎮 Entre um teste e outro, me divirto jogando **Fortnite** e desbravando o mundo de **God of War**  
