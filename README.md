@@ -2,7 +2,7 @@
 
 🎯 **Analista de Qualidade de Software (QA)**  
 🔍 Explorando o universo dos **testes automatizados**, garantindo que bugs tenham pesadelos comigo!  
-🌱 Atualmente estudando **Node.js e Teste de Software**  
+🌱 Atualmente estudando **para tirar Certificação CTFL**  
 🎮 Entre um teste e outro, me divirto jogando **Fortnite** e desbravando o mundo de **God of War**  
 💡 Apaixonada por tecnologia, inovação e a arte de garantir software de qualidade!  
 
