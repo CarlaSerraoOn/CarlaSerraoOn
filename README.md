@@ -61,6 +61,7 @@
     <img align="right" alt="carla-gif" height="150" src="https://i.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/S3PBXqHjKL9GZhK2Yv.gif';" alt>
 </div>
 
+
 ---
 
 ## 🏆 Minha Missão no QA  
