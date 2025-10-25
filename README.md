@@ -1,4 +1,4 @@
-# 🚀 Fala aí! Eu sou a Carla Serrão 👩‍💻  
+# 🚀 Fala aí! Eu sou a Carla Oliveira 👩‍💻  
 
 🎯 **Analista de Qualidade de Software (QA)**  
 🔍 Explorando o universo dos **testes automatizados**, garantindo que bugs tenham pesadelos comigo!  
