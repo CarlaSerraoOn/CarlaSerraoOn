@@ -49,12 +49,38 @@
 
 ---
 
-## 🔧 Tech Stack & Ferramentas  
-<div style="display: inline_block"><br>
-    <img align="center" alt="carla-postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-    <img align="right" alt="carla-gif" height="150" src="https://i.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp" onerror="this.onerror=null;this.src='https://i.giphy.com/S3PBXqHjKL9GZhK2Yv.gif';" alt>
-</div>
+## 🔧 Tech Stack & Ferramentas
 
+### 💻 Linguagens
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+</p>
+
+### 🛠️ Frameworks e Ferramentas
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+</p>
+
+### 🧪 Testes e QA
+<p align="left">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain-wordmark.svg" />
+</p>
+
+<p align="right">
+  <img height="250"
+       src="https://i.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.webp"
+       onerror="this.onerror=null;this.src='https://i.giphy.com/S3PBXqHjKL9GZhK2Yv.gif';" />
+</p>
 
 
 ---
