@@ -20,7 +20,7 @@
 
 🎓 **Graduação:** Análise e Desenvolvimento de Sistemas  
 🎓 **Pós-graduação:** Engenharia de Software com ênfase em Qualidade e Testes  
-🎓 **Pós-graduação:** Inteligência Artificial para a Engenharia de Testes de Software - Em andamento⏳
+🎓 **Pós-graduação:** Inteligência Artificial para a Engenharia de Testes de Software
 
 📜 **Certificações & Cursos:**  
 ✅ **Testes e Qualidade de Software:**  
